@@ -1,0 +1,1 @@
+/workspaces/training/hello-nextflow/work/b7/c725db52c3051f119885c4487d7541/UPPER-Holà-output.txt

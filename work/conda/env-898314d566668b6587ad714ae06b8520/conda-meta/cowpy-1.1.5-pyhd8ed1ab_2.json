@@ -1,0 +1,130 @@
+{
+  "build": "pyhd8ed1ab_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/cowpy-1.1.5-pyhd8ed1ab_2",
+  "files": [
+    "lib/python3.13/site-packages/cowpy-1.1.5.dist-info/INSTALLER",
+    "lib/python3.13/site-packages/cowpy-1.1.5.dist-info/LICENSE.md",
+    "lib/python3.13/site-packages/cowpy-1.1.5.dist-info/METADATA",
+    "lib/python3.13/site-packages/cowpy-1.1.5.dist-info/RECORD",
+    "lib/python3.13/site-packages/cowpy-1.1.5.dist-info/REQUESTED",
+    "lib/python3.13/site-packages/cowpy-1.1.5.dist-info/WHEEL",
+    "lib/python3.13/site-packages/cowpy-1.1.5.dist-info/direct_url.json",
+    "lib/python3.13/site-packages/cowpy-1.1.5.dist-info/entry_points.txt",
+    "lib/python3.13/site-packages/cowpy/__init__.py",
+    "lib/python3.13/site-packages/cowpy/cow.py",
+    "lib/python3.13/site-packages/cowpy/__pycache__/__init__.cpython-313.pyc",
+    "lib/python3.13/site-packages/cowpy/__pycache__/cow.cpython-313.pyc",
+    "bin/cowpy"
+  ],
+  "fn": "cowpy-1.1.5-pyhd8ed1ab_2.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/opt/conda/pkgs/cowpy-1.1.5-pyhd8ed1ab_2",
+    "type": 1
+  },
+  "md5": "f9a885055710bee65b2b081f7a671167",
+  "name": "cowpy",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/conda/pkgs/cowpy-1.1.5-pyhd8ed1ab_2.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/cowpy-1.1.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/cowpy-1.1.5.dist-info/LICENSE.md",
+        "path_type": "hardlink",
+        "sha256": "68fe244423e4d4f735d61d956aaa6d2778de8eb17937424f350bccdf8c02168a",
+        "sha256_in_prefix": "68fe244423e4d4f735d61d956aaa6d2778de8eb17937424f350bccdf8c02168a",
+        "size_in_bytes": 11346
+      },
+      {
+        "_path": "site-packages/cowpy-1.1.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "7dd24b76d329202051b0c5c54766894e0663caccc389065b20aee1e472675b89",
+        "sha256_in_prefix": "7dd24b76d329202051b0c5c54766894e0663caccc389065b20aee1e472675b89",
+        "size_in_bytes": 591
+      },
+      {
+        "_path": "site-packages/cowpy-1.1.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7839b1138a58cc9c42253525b0bbde33903e3295a492eb4651a772350164a6ab",
+        "sha256_in_prefix": "7839b1138a58cc9c42253525b0bbde33903e3295a492eb4651a772350164a6ab",
+        "size_in_bytes": 956
+      },
+      {
+        "_path": "site-packages/cowpy-1.1.5.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/cowpy-1.1.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "36af367bdad4027123b7df09e8c95598c0996feb7d71813622bd64a419a759fb",
+        "sha256_in_prefix": "36af367bdad4027123b7df09e8c95598c0996feb7d71813622bd64a419a759fb",
+        "size_in_bytes": 88
+      },
+      {
+        "_path": "site-packages/cowpy-1.1.5.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "5ce8eb826a05a8c67e48670b165f34325aad686606ba53cb8a812a494a69b50d",
+        "sha256_in_prefix": "5ce8eb826a05a8c67e48670b165f34325aad686606ba53cb8a812a494a69b50d",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "site-packages/cowpy-1.1.5.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "eb9ac5c5af482499bb993d57e2c29a299dc087148fba498a0d7957c0e9d5c4e3",
+        "sha256_in_prefix": "eb9ac5c5af482499bb993d57e2c29a299dc087148fba498a0d7957c0e9d5c4e3",
+        "size_in_bytes": 40
+      },
+      {
+        "_path": "site-packages/cowpy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/cowpy/cow.py",
+        "path_type": "hardlink",
+        "sha256": "5bd797f3df17d68729586bc5d52ac138412263bcfcb5f825c459ad986ad1c31c",
+        "sha256_in_prefix": "5bd797f3df17d68729586bc5d52ac138412263bcfcb5f825c459ad986ad1c31c",
+        "size_in_bytes": 41928
+      },
+      {
+        "_path": "lib/python3.13/site-packages/cowpy/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.13/site-packages/cowpy/__pycache__/cow.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/cowpy",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "conda-forge::cowpy==1.1.5",
+  "sha256": "93894ea450152d39abb74bedc0cdbaa04a8d9889f15b50ee2025f3ee341a59d7",
+  "size": 23626,
+  "subdir": "noarch",
+  "timestamp": 1735677457000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cowpy-1.1.5-pyhd8ed1ab_2.conda",
+  "version": "1.1.5"
+}

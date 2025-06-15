@@ -1,0 +1,3 @@
+#!/bin/bash -ue
+cat Hello-output.txt | tr '[a-z]' '[A-Z]' > UPPER-Hello-output.txt.txt
+cat UPPER-Hello-output.txt.txt > COLLECTION-output.txt

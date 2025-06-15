@@ -1,0 +1,1 @@
+/workspaces/training/hello-nextflow/work/e9/c68fc1b82501b436a3369cf48aa5b9/Holà-output.txt

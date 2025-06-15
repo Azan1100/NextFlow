@@ -1,0 +1,1 @@
+/workspaces/training/hello-nextflow/work/ea/c58b93051fc2810be80aaa5d44e6cd/COLLECTED-test-batch-output.txt
